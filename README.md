@@ -1,3 +1,3 @@
 # docs
 
-* [Requisitos] (requisitos.md)
+* [Requisitos](requisitos.md)
