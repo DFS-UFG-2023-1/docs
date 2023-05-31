@@ -1,5 +1,8 @@
 # no-curriculum
 
+* [Requisitos](requisitos.md)
+* [Tecnologias](tecnologias.md)
+
 ## Objetivo:
 
 Uma aplicação Web para servir de plataforma de interação entre contratantes (pessoa física ou jurídica) e alunos recém formados, que possuem o Know How e as Skills necessárias para projetar uma solução aos mais diversos problemas de negócio, que os contratantes irão cadastrar na plataforma, utilizando ferramentas e técnicas da TIC.
@@ -26,6 +29,3 @@ O escopo deste projeto contempará:
 5. Tela com o Workflow de negociação e seleção dos "alunos recém graduados" que confirmaram interesse na oportunidade.
 
 ## Arquitetura:
-
-#### As informações detalhadas dos requisitos do projeto estarão no link do documento abaixo:
-* [Requisitos](requisitos.md)
