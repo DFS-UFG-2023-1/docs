@@ -1,5 +1,6 @@
 # no-curriculum
 
+
 ## Objetivo:
 
 Uma aplicação Web para servir de plataforma de interação entre contratantes (pessoa física ou jurídica) e alunos recém formados, que possuem o Know How e as Skills necessárias para projetar uma solução aos mais diversos problemas de negócio, que os contratantes irão cadastrar na plataforma, utilizando ferramentas e técnicas da TIC.
