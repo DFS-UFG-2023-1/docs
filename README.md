@@ -18,7 +18,8 @@ A plataforma não realiza nenhum tipo de vínculo empregatício, é um ambiente 
 * Navegabilidade e interagibilidade do alunos recém graduados com as oportunidades;
 * Negociação/Seleção do aluno recém graduado que demonstrou interesse na oportunidade;
 * Sistema de avaliação por parte do contratante (as avaliações definirá a nota do aluno recém formado);
-* Recomendar as oportunidades de acordo com o perfil do aluno recém formado logado na plataforma.
+* Recomendar as oportunidades de acordo com o perfil do aluno recém formado logado na plataforma;
+* Recomendar os alunos recém formados aos contratantes, de acordo com o nicho da oportunidade a ser cadastrada.
 
 ## Escopo:
 
