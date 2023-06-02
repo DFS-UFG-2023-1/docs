@@ -32,3 +32,5 @@ O escopo deste projeto contempará:
 5. Tela com o Workflow de negociação e seleção dos "alunos recém graduados" que confirmaram interesse na oportunidade.
 
 ## Arquitetura:
+![Arquitetura em 3 camadas](https://github.com/DFS-UFG-2023-1/docs/assets/56901485/f000fca4-d0e5-4ab3-b454-22fe057fb687)
+#### Arquitetura em 3 camadas
