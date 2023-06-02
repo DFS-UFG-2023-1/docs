@@ -34,3 +34,4 @@ O escopo deste projeto contempará:
 ## Arquitetura:
 ![Arquitetura em 3 camadas](https://github.com/DFS-UFG-2023-1/docs/assets/56901485/f000fca4-d0e5-4ab3-b454-22fe057fb687)
 #### Arquitetura em 3 camadas
+[Link Explicativo](https://felipelucioquirino.wordpress.com/2012/07/20/arquitetura-de-software-arquitetura-em-camadas/)
