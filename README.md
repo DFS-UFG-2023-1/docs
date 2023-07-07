@@ -23,7 +23,7 @@ A plataforma não realiza nenhum tipo de vínculo empregatício, é um ambiente 
 
 ## Escopo:
 
-O escopo deste projeto contempará:
+O escopo deste projeto contemplará:
 
 1. Uma aplicação Web responsiva, tendo a possibiliade de acessar pelos mais variados tamanhos de tela (Monitores, Tablets, Notebooks, Smartphones);
 2. Tela de cadastro/login dos alunos recém graduados e dos contratantes;
